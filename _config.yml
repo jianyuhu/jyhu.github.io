@@ -21,7 +21,7 @@ repository               : "https://jianyuhu.github.io/jyhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jyhu.jpg"
   name             : "Jianyu Hu"
   pronouns         : # example: "she/her"  
   bio              : "HUST"
