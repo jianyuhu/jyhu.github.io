@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Journal Articles](#journal-articles)\ [Conference Papers](#conference-papers)\ [White Papers](#white-papers)\
+[Journal Articles](#journal-articles) ##\cot [Conference Papers](#conference-papers) ##\cot [White Papers](#white-papers)\
 [Academic](#academic)\ [Presentations](#presentations)
 
 {% if site.author.googlescholar %}
