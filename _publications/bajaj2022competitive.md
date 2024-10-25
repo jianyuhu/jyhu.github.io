@@ -1,6 +1,5 @@
 ---
 title: "Competitive Perimeter Defense of Conical Environments"
-collection: publications
 permalink: /publication/bajaj2022competitive
 paperurl: 'https://arxiv.org/pdf/2110.04667.pdf'
 doi: '10.1109/CDC51059.2022.9993007'
