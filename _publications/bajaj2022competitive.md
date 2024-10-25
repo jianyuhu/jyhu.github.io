@@ -2,8 +2,6 @@
 title: "Competitive Perimeter Defense of Conical Environments"
 collection: publications
 permalink: /publication/bajaj2022competitive
-date: 2022-06-08 01:00:00 +0500
-venue: 'Conference on Decision and Control'
 paperurl: 'https://arxiv.org/pdf/2110.04667.pdf'
 doi: '10.1109/CDC51059.2022.9993007'
 pubtype: 'conference'
