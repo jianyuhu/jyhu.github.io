@@ -19,7 +19,7 @@ author_profile: true
 
 ## Resources
  * Yuan, S., Hu, J., Liu, X., Duan, J.: Slow manifolds for dynamical systems with non-Gaussian stable L´evy noise. Anal. Appl. 17(03), 477-511
-(2019)[Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+(2019)[DOI](https://shopify.github.io/liquid/tags/control-flow/)
 
 
 ## Journal Articles
