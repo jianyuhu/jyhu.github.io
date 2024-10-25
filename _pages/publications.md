@@ -17,6 +17,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Resources
+ * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+
+
 ## Journal Articles
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
