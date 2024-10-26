@@ -9,6 +9,9 @@ redirect_from:
 
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+My research interests are in stochatic dynamical systems, probability and their applications in scientific computing. My current research focuses on learning dynamics from data. I am interested in the following topics:
+
+* Statistics and machine learning, learning theory
+* Inverse problems, regularization
+* Stochastic model reduction, Data assimilation, Monte-Carlo sampling
+* Malliavin calculus, Stein's method, and stochastic PDEs
