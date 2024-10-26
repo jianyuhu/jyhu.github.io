@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## [Meachnie learning and Hamiltonian systems](https://github.com/jianyuhu/files/ge2012.pdf) 
+## Meachnie learning and Hamiltonian systems
 
 
 ## Stochastic Dynamical systems
