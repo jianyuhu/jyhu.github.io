@@ -13,5 +13,5 @@ My research interests are in stochatic dynamical systems, probability and their 
 
 * Statistics and machine learning, learning theory
 * Inverse problems, regularization
-* Stochastic model reduction, Data assimilation, Monte-Carlo sampling
+* Dynamics for stochastic dynamical systems
 * Malliavin calculus, Stein's method, and stochastic PDEs
