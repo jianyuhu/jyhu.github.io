@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Stochastic Dynamical systems
-9. Wei, W. and Hu, J.. The most likely transition path for a class of distribution-dependent stochastic systems. Stochastics and Dynamics, 23(08), 2340008, 2023.  [DOI](https://www.worldscientific.com/doi/abs/10.1142/S0219493723400087)  [PDF](https://arxiv.org/abs/2111.06030)
+9. Wei, W. and {\bf Hu, J.}. The most likely transition path for a class of distribution-dependent stochastic systems. Stochastics and Dynamics, 23(08), 2340008, 2023.  [DOI](https://www.worldscientific.com/doi/abs/10.1142/S0219493723400087)  [PDF](https://arxiv.org/abs/2111.06030)
 8. Dai, M., Duan, J., Hu, J. and Wang, X.. Nonparametric inference of stochastic differential equations based on the relative entropy rate. Mathematical Methods in the Applied Sciences, 46(2), 2986-2996, 2023. [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.8685)  [PDF](https://arxiv.org/abs/2112.04692)
 7. Chen, X., Duan, J., Hu, J. and Li, D.. Data-driven method to learn the most probable transition pathway and stochastic differential equation. Physica D, 443:133559, 2023.  [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0167278922002639)  [PDF](https://arxiv.org/abs/2111.08944)
 6. Chen, J., Hu, J., Wei, W. and Duan, J.. A data-driven approach for discovering the most probable transition pathway for a stochastic carbon cycle system. Chaos, 32(11), 2022.  [DOI](https://pubs.aip.org/aip/cha/article-abstract/32/11/113140/2836091/A-data-driven-approach-for-discovering-the-most?redirectedFrom=fulltext)  [PDF](https://arxiv.org/abs/2207.07252)
