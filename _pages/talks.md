@@ -5,5 +5,5 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Presentations
+## Kernel methods
 1. jhuh
