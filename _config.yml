@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  "https://www.researchgate.net/profile/Jianyu-Hu-5"
-  github           :  "/jianyuhu"
+  github           :  "jianyuhu"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
