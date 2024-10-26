@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en).
 
-
+****
 ## [Meachnie Learning and Hamiltonian Systems](https://jianyuhu.github.io/jyhu.github.io/files/Meachnie_learning_and_Hamiltonian_systems.pdf)
 
 
@@ -23,7 +23,7 @@ You can also find my articles on [my Google Scholar](https://scholar.google.com/
 1. Yuan, S., **Hu, J.**, Liu, X. and Duan, J.. Slow manifolds for dynamical systems with non-Gaussian stable Levy noise. *Anal. Appl.*, 17(03), 477-511, 2019.  [DOI](https://www.worldscientific.com/doi/abs/10.1142/S0219530519500027)
 
 
-
+****
 #  Preprints
 3. Chen, J., **Hu, J.**, Wang, Z., Duan, J., Gao T.. Correspondence Research of the Most Probable Transition Paths between a Stochastic Interacting Particle System and its Mean Field Limit System. arXiv:2404.07552, 2024.  [PDF](https://arxiv.org/abs/2404.07552)
 2. **Hu, J.**, Ortega, J.P. and Yin, D.. A structure-preserving kernel method for learning Hamiltonian systems. arXiv:2403.10070, 2024.  [PDF](https://arxiv.org/abs/2403.10070)
