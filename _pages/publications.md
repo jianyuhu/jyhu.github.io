@@ -8,10 +8,10 @@ author_profile: true
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en).
 
 
-## [Meachnie learning and Hamiltonian systems](https://jianyuhu.github.io/jyhu.github.io/files/Meachnie_learning_and_Hamiltonian_systems.pdf)
+## [Meachnie Learning and Hamiltonian Systems](https://jianyuhu.github.io/jyhu.github.io/files/Meachnie_learning_and_Hamiltonian_systems.pdf)
 
 
-## [Stochastic Dynamical systems](https://jianyuhu.github.io/jyhu.github.io/files/Stochastic_dynamical_systems.pdf)
+## [Stochastic Dynamical Systems](https://jianyuhu.github.io/jyhu.github.io/files/Stochastic_dynamical_systems.pdf)
 9. Wei, W. and **Hu, J.**. The most likely transition path for a class of distribution-dependent stochastic systems. *Stochastics and Dynamics*, 23(08), 2340008, 2023.  [DOI](https://www.worldscientific.com/doi/abs/10.1142/S0219493723400087)  [PDF](https://arxiv.org/abs/2111.06030)
 8. Dai, M., Duan, J., **Hu, J.** and Wang, X.. Nonparametric inference of stochastic differential equations based on the relative entropy rate. *Mathematical Methods in the Applied Sciences*, 46(2), 2986-2996, 2023. [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1002/mma.8685)  [PDF](https://arxiv.org/abs/2112.04692)
 7. Chen, X., Duan, J., **Hu, J.** and Li, D.. Data-driven method to learn the most probable transition pathway and stochastic differential equation. *Physica D*, 443:133559, 2023.  [DOI](https://www.sciencedirect.com/science/article/abs/pii/S0167278922002639)  [PDF](https://arxiv.org/abs/2111.08944)
