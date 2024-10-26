@@ -7,3 +7,7 @@ author_profile: true
 
 ## Kernel methods
 1. jhuh
+
+****
+
+## Deep learning
