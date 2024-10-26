@@ -11,7 +11,6 @@ redirect_from:
 
 My research interests are in stochatic dynamical systems, probability and their applications in scientific computing. My current research focuses on learning dynamics from data. I am interested in the following topics:
 
-* Statistics and machine learning, learning theory
-* Inverse problems, regularization
+* Interaction of geometry, stochasticity and machine learning
+* Learning theory of kernel method and deep learning
 * Dynamics for stochastic dynamical systems
-* Malliavin calculus, Stein's method, and stochastic PDEs
