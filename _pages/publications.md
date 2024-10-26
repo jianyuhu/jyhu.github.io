@@ -7,7 +7,6 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en).
 
-****
 ## [Meachnie Learning and Hamiltonian Systems](https://jianyuhu.github.io/jyhu.github.io/files/Meachnie_learning_and_Hamiltonian_systems.pdf)
 
 
