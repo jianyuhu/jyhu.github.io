@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my articles on [my Google Scholar](https://scholar.google.com/citations?user=CpVUlZAAAAAJ&hl=en)
+
 
 ## [Meachnie learning and Hamiltonian systems](https://jianyuhu.github.io/jyhu.github.io/files/Meachnie_learning_and_Hamiltonian_systems.pdf)
 
