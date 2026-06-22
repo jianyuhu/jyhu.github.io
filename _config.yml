@@ -26,7 +26,7 @@ author:
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "jianyu.hu@ntu.edu.sg" 
+  email            : # "jianyu.hu@ntu.edu.sg" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -36,6 +36,7 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  "https://www.researchgate.net/profile/Jianyu-Hu-5"
+  linkedin         :  "hu-jianyu/"
   github           :  "jianyuhu"
 
   # Repositories and software development
@@ -55,7 +56,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  "hu-jianyu/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
