@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow in Applied Mathematics at Nanyang Technological University (NTU), Singapore.
+I am a Postdoctoral Research Fellow at Nanyang Technological University (NTU), Singapore.
 
-My research lies at the intersection of dynamical systems, partial differential equations, probability, and scientific machine learning. I am interested in developing mathematical foundations for learning and discovering governing mechanisms and intrinsic geometric structures of complex dynamical systems from observational data.
+My research lies at the intersection of dynamical systems, geometry, probability, and scientific machine learning. I am interested in developing mathematical foundations for learning and discovering governing mechanisms and intrinsic geometric structures of complex dynamical systems from observational data.
 
 My current research focuses on structure-preserving learning for dynamical systems, inverse problems in differential equations, stochastic dynamical systems, and data-driven scientific discovery. In particular, I study mathematical theories and algorithms for learning Hamiltonian and Poisson systems, stochastic differential equations, Wasserstein-type dynamics, and interacting particle systems.
 
