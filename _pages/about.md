@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow at Nanyang Technological University (NTU), Singapore.
+I am currently a Postdoctoral Research Fellow at the [School of Physical and Mathematical Sciences](https://www.ntu.edu.sg/spms), [Nanyang Technological University](https://www.ntu.edu.sg), Singapore.
 
 My research lies at the intersection of dynamical systems, geometry, probability, and scientific machine learning. I am interested in developing mathematical foundations for learning and discovering governing mechanisms and intrinsic geometric structures of complex dynamical systems from observational data.
 
