@@ -39,3 +39,26 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom academic homepage style */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.archive h1,
+.archive h2,
+.archive h3,
+.archive h4 {
+  color: #0056b3 !important;
+}
+
+.page__content h1 a,
+.page__content h2 a,
+.page__content h3 a,
+.page__content h4 a,
+.archive h1 a,
+.archive h2 a,
+.archive h3 a,
+.archive h4 a {
+  color: #0056b3 !important;
+}
