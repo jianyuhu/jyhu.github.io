@@ -11,23 +11,11 @@ I am currently a Postdoctoral Research Fellow at the [School of Physical and Mat
 
 My research lies at the intersection of dynamical systems, geometry, probability, and scientific machine learning. My research interests include:
 
-1.     Metastability, rare events, and most probable transition pathways in stochastic dynamical systems;
+1. Metastability, rare events, and most probable transition pathways in stochastic dynamical systems;
 2. Mathematical foundations of scientific machine learning, including structure-preserving learning, geometric learning, and data-driven discovery of dynamical systems.
 
 ## News
 
-Jun 2026
-
-* Invited speaker at the Mathematical Forum on Control and Learning, Westlake University, Hangzhou, China.
-
-Jun 2026
+July 2026
 
 * Invited speaker at the AIMS Conference on Dynamical Systems, Differential Equations and Applications.
-
-May 2026
-
-* Awarded the National Science Fund for Excellent Young Scholars (Overseas).
-
-Jan 2026
-
-* Joined the School of Physical and Mathematical Sciences at Nanyang Technological University as a Postdoctoral Research Fellow.
