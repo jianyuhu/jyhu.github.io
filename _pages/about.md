@@ -1,14 +1,11 @@
-⸻
-
+---
 permalink: /
-title: “Jianyu Hu”
+title: "Jianyu Hu"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
-⸻
+  - /about/
+  - /about.html
+---
 
 I am a Postdoctoral Research Fellow in Applied Mathematics at Nanyang Technological University (NTU), Singapore.
 
