@@ -8,11 +8,11 @@
 locale                   : "en-US"
 title                    : "Jianyu Hu"
 title_separator          : ""
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://jianyuhu.github.io/jyhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://jianyuhu.github.io/jyhu.github.io"
+name                     : &name "Jianyu Hu"
+description              : &description "Postdoctoral Research Fellow at NTU"
+url                      : "https://jianyuhu.github.io"
+baseurl                  : ""
+repository               : "jianyuhu/jianyuhu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
