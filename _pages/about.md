@@ -19,3 +19,27 @@ My research lies at the intersection of dynamical systems, geometry, probability
 July 2026
 
 * Invited speaker at the AIMS Conference on Dynamical Systems, Differential Equations and Applications.
+
+<section class="topics-sketch">
+  <h2>Topics sketch</h2>
+
+  <details>
+    <summary>High dimensional sampling</summary>
+    <p>Sampling methods for high-dimensional stochastic systems, rare events, and transition pathways.</p>
+  </details>
+
+  <details>
+    <summary>Generative modeling and probabilistic inference</summary>
+    <p>Diffusion models, Schrödinger bridges, Bayesian inference, and stochastic dynamics.</p>
+  </details>
+
+  <details>
+    <summary>Statistical numerical methods</summary>
+    <p>Numerical methods with statistical structure, uncertainty, and data-driven approximation.</p>
+  </details>
+
+  <details>
+    <summary>Multiscale numerical methods</summary>
+    <p>Methods for multiscale dynamical systems and coarse-grained stochastic models.</p>
+  </details>
+</section>
