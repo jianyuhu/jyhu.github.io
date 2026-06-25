@@ -64,23 +64,27 @@
 }
 
 .author__name {
-    font-size: 2rem;
-    font-weight: 700;
+  font-size: 1.7rem;
+  font-weight: 700;
 }
 
 .author__bio {
-    font-size: 1.2rem;
-    line-height: 1.5;
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 .author__urls li {
-    font-size: 1.15rem;
-    margin-bottom: 0.35rem;
+  font-size: 0.95rem;
+  margin-bottom: 0.25rem;
+}
+
+.author__urls a {
+  font-size: 0.95rem;
 }
 
 .author__urls i {
-    font-size: 1.15rem;
-    width: 1.3rem;
+  font-size: 1rem;
+  width: 1.2rem;
 }
 
 .topics-sketch {
