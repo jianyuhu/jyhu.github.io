@@ -62,3 +62,23 @@
 .archive h4 a {
   color: #0056b3 !important;
 }
+
+.author__name {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.author__bio {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.author__urls li {
+    font-size: 1.15rem;
+    margin-bottom: 0.35rem;
+}
+
+.author__urls i {
+    font-size: 1.15rem;
+    width: 1.3rem;
+}
