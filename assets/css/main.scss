@@ -82,3 +82,57 @@
     font-size: 1.15rem;
     width: 1.3rem;
 }
+
+.topics-sketch {
+  margin-top: 2.5rem;
+}
+
+.topics-sketch h2 {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: #6f7d8e;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.topics-sketch h2::after {
+  content: "";
+  flex: 1;
+  border-bottom: 3px solid #6f7d8e;
+}
+
+.topics-sketch details {
+  border-bottom: 1px dotted #b7bec7;
+  padding: 1rem 0;
+}
+
+.topics-sketch summary {
+  cursor: pointer;
+  list-style: none;
+  color: #2f86d6;
+  font-size: 1.45rem;
+  font-weight: 600;
+}
+
+.topics-sketch summary::-webkit-details-marker {
+  display: none;
+}
+
+.topics-sketch summary::after {
+  content: "+";
+  float: right;
+  color: #aeb8c2;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.topics-sketch details[open] summary::after {
+  content: "−";
+}
+
+.topics-sketch p {
+  margin-top: 0.8rem;
+  color: #4a4a4a;
+  font-size: 1.05rem;
+}
