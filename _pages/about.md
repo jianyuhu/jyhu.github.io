@@ -15,9 +15,9 @@ My research lies at the intersection of dynamical systems, geometry, probability
 2. Mathematical foundations of scientific machine learning, including structure-preserving learning, geometric learning, and data-driven discovery of dynamical systems.
 
 <section class="topics-sketch">
-  <h1>Topics sketch</h1>
+ <h1>Topics sketch</h1>
 
-  <details>
+ <details>
     <summary>High dimensional sampling</summary>
     <div class="topic-content">
       <p>I work on understanding how high-dimensional sampling of probability distributions can be made feasible and developing efficient algorithms for applications in scientific computing and inverse problems.</p>
@@ -27,4 +27,16 @@ My research lies at the intersection of dynamical systems, geometry, probability
       </ul>
     </div>
   </details>
+
+ <details>
+    <summary>High dimensional sampling</summary>
+    <div class="topic-content">
+      <p>I work on understanding how high-dimensional sampling of probability distributions can be made feasible and developing efficient algorithms for applications in scientific computing and inverse problems.</p>
+      <ul>
+        <li><strong>Error/Bias in high dimensions:</strong> Motivated by molecular dynamics applications, we study dimension-dependent bias and sampling efficiency.</li>
+        <li><strong>Improved dimensional scaling:</strong> We develop sampling methods with better scaling properties for high-dimensional problems.</li>
+      </ul>
+    </div>
+  </details>
+  
 </section>
