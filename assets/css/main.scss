@@ -63,41 +63,53 @@
   color: #0056b3 !important;
 }
 
-.author__name    {font-size: 1.7rem; font-weight: 700;}
+.author__name    {font-size: 1.5rem; font-weight: 700;}
 .author__bio     {font-size: 0.8rem; line-height: 1.2;}
 .author__urls li {font-size: 0.85rem; margin-bottom: 0.2rem;}
 .author__urls a  {font-size: 0.85rem;}
 .author__urls i  {font-size: 0.8rem; width: 1rem;}
 
+/* ===========================
+   Topics Sketch
+   =========================== */
+
 .topics-sketch {
-  margin-top: 2.5rem;
+  margin-top: 2rem;
 }
 
 .topics-sketch h2 {
   display: flex;
   align-items: center;
   gap: 1rem;
-  color: #6f7d8e;
-  font-size: 2rem;
-  font-weight: 700;
+
+  /* 与整个网站 h2 保持一致 */
+  color: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+
+  margin-bottom: 1rem;
 }
 
 .topics-sketch h2::after {
   content: "";
   flex: 1;
-  border-bottom: 3px solid #6f7d8e;
+  border-bottom: 2px solid #6f7d8e;
 }
 
 .topics-sketch details {
-  border-bottom: 1px dotted #b7bec7;
-  padding: 1rem 0;
+  border-bottom: 1px dotted #d8d8d8;
+  padding: 0.9rem 0;
 }
 
 .topics-sketch summary {
   cursor: pointer;
   list-style: none;
-  color: #2f86d6;
-  font-size: 1.45rem;
+
+  /* 与网站链接颜色一致 */
+  color: #0056b3;
+
+  /* 与正文大小保持一致 */
+  font-size: 1.1rem;
   font-weight: 600;
 }
 
@@ -108,9 +120,9 @@
 .topics-sketch summary::after {
   content: "+";
   float: right;
-  color: #aeb8c2;
-  font-size: 1.8rem;
-  font-weight: 700;
+  color: #b7bec7;
+  font-size: 1.4rem;
+  font-weight: 400;
 }
 
 .topics-sketch details[open] summary::after {
@@ -118,7 +130,8 @@
 }
 
 .topics-sketch p {
-  margin-top: 0.8rem;
-  color: #4a4a4a;
-  font-size: 1.05rem;
+  margin: 0.8rem 0 0 0;
+  color: #555;
+  font-size: 1rem;
+  line-height: 1.7;
 }
