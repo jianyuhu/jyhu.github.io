@@ -23,23 +23,14 @@ July 2026
 <section class="topics-sketch">
   <h2>Topics sketch</h2>
 
-  <details>
+  <details open>
     <summary>High dimensional sampling</summary>
-    <p>Sampling methods for high-dimensional stochastic systems, rare events, and transition pathways.</p>
-  </details>
-
-  <details>
-    <summary>Generative modeling and probabilistic inference</summary>
-    <p>Diffusion models, Schrödinger bridges, Bayesian inference, and stochastic dynamics.</p>
-  </details>
-
-  <details>
-    <summary>Statistical numerical methods</summary>
-    <p>Numerical methods with statistical structure, uncertainty, and data-driven approximation.</p>
-  </details>
-
-  <details>
-    <summary>Multiscale numerical methods</summary>
-    <p>Methods for multiscale dynamical systems and coarse-grained stochastic models.</p>
+    <div class="topic-content">
+      <p>I work on understanding how high-dimensional sampling of probability distributions can be made feasible and developing efficient algorithms for applications in scientific computing and inverse problems.</p>
+      <ul>
+        <li><strong>Error/Bias in high dimensions:</strong> Motivated by molecular dynamics applications, we study dimension-dependent bias and sampling efficiency.</li>
+        <li><strong>Improved dimensional scaling:</strong> We develop sampling methods with better scaling properties for high-dimensional problems.</li>
+      </ul>
+    </div>
   </details>
 </section>
