@@ -65,7 +65,7 @@
 .topics-sketch h1 { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; }
 .topics-sketch h1::after { content: ""; flex: 1; height: 2px; background: #6f7d8e; }
 .topics-sketch details { padding: .75rem 0; border-bottom: 1px dotted #d8d8d8; }
-.topics-sketch summary { display: block; list-style: none; cursor: pointer; color: #1f6fb2; font-size: 1em; font-weight: 600; }
+.topics-sketch summary { display: block; list-style: none; cursor: pointer; color: #0056b3; font-size: 1em; font-weight: 600; }
 .topics-sketch summary::-webkit-details-marker { display: none; }
 .topics-sketch summary::after { content: "+"; float: right; color: #b7bec7; font-size: 1.2em; font-weight: 400; }
 .topics-sketch details[open] summary::after { content: "−"; }
