@@ -21,7 +21,7 @@ July 2026
 * Invited speaker at the AIMS Conference on Dynamical Systems, Differential Equations and Applications.
 
 <section class="topics-sketch">
-  <h2>Topics sketch</h2>
+  <h1>Topics sketch</h1>
 
   <details>
     <summary>High dimensional sampling</summary>
