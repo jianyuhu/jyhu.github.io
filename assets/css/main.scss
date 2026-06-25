@@ -1,23 +1,14 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+/* main */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
-
 @import "reset";
 @import "base";
-
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -29,7 +20,6 @@
 @import "syntax";
 
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
@@ -41,6 +31,7 @@
 @import "print";
 
 /* Custom academic homepage style */
+
 .page__content h1,
 .page__content h2,
 .page__content h3,
