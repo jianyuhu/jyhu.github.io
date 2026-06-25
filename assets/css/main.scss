@@ -62,14 +62,14 @@
 
 /* ===== Topics Sketch ===== */
 .topics-sketch { margin-top: 2rem; }
-.topics-sketch h2 { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; }
-.topics-sketch h2::after { content: ""; flex: 1; border-bottom: 2px solid #6f7d8e; }
+.topics-sketch h2 { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; color: #60758c; }
+.topics-sketch h2::after { content: ""; flex: 1; border-bottom: 2px solid #60758c; }
 .topics-sketch details { padding: .75rem 0; border-bottom: 1px dotted #d8d8d8; }
-.topics-sketch summary { display: block; list-style: none; cursor: pointer; color: #0056b3; font-size: 1em; font-weight: 600; }
+.topics-sketch summary { display: block; list-style: none; cursor: pointer; color: #1f6fb2; font-size: 1em; font-weight: 600; }
 .topics-sketch summary::-webkit-details-marker { display: none; }
 .topics-sketch summary::after { content: "+"; float: right; color: #b7bec7; font-size: 1.2em; font-weight: 400; }
 .topics-sketch details[open] summary::after { content: "−"; }
-.topics-sketch .topic-content { margin-top: .75rem; padding: 1.1rem 1.3rem; background: #f6f8fc; color: #333; font-size: 1em; line-height: 1.65; }
+.topics-sketch .topic-content { margin-top: .75rem; padding: 1.1rem 1.3rem; background: #f7f9fc; color: #333; font-size: 1em; line-height: 1.65; }
 .topics-sketch .topic-content p { margin: 0 0 .8rem; }
 .topics-sketch .topic-content ul { margin: .8rem 0 0 1.2rem; }
 .topics-sketch .topic-content li { margin-bottom: .6rem; }
