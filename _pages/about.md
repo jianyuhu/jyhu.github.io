@@ -14,12 +14,6 @@ My research lies at the intersection of dynamical systems, geometry, probability
 1. Metastability, rare events, and most probable transition pathways in stochastic dynamical systems;
 2. Mathematical foundations of scientific machine learning, including structure-preserving learning, geometric learning, and data-driven discovery of dynamical systems.
 
-# News!
-
-July 2026
-
-* Invited speaker at the AIMS Conference on Dynamical Systems, Differential Equations and Applications.
-
 <section class="topics-sketch">
   <h1>Topics sketch</h1>
 
