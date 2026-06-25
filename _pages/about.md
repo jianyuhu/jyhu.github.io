@@ -23,7 +23,7 @@ July 2026
 <section class="topics-sketch">
   <h2>Topics sketch</h2>
 
-  <details open>
+  <details>
     <summary>High dimensional sampling</summary>
     <div class="topic-content">
       <p>I work on understanding how high-dimensional sampling of probability distributions can be made feasible and developing efficient algorithms for applications in scientific computing and inverse problems.</p>
